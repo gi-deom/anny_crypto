@@ -1,5 +1,9 @@
 // Set this to the public URL of the deployed AnnyCrypto data service.
-// Set these values from Firebase Console > Project settings > Your apps.
-// Leave the object empty to use the local demo account while testing the UI.
-window.ANNYCRYPTO_FIREBASE_CONFIG = { apiKey: '', authDomain: '', projectId: '', appId: '' };
+window.ANNYCRYPTO_FIREBASE_CONFIG = {
+  apiKey: 'AIzaSyB8WX0QqFO1IIXwlwuM4Y1rLDbIQEF4MNY',
+  authDomain: 'anny-crypto.firebaseapp.com',
+  projectId: 'anny-crypto',
+  appId: '1:348715798682:web:0e342c6956bf3d4741cf23',
+  measurementId: 'G-JG5S57YBW0'
+};
 window.ANNYCRYPTO_API_BASE = '';
